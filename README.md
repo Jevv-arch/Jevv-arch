@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jevv 👋
+# Hey, I'm szeckshh 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Learning+Frontend+%2B+Backend;Building+Projects+One+Commit+At+A+Time;Future+Software+Engineer+%F0%9F%9A%80"/>
 
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const jevv = {
+const szeckshh = {
     username: "Jevv-arch",
     role: "Aspiring Full-Stack Developer",
 
@@ -103,11 +103,13 @@ Currently building and learning:
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jevv-arch&theme=tokyo-night&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jevv-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevv-arch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
