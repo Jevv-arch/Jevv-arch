@@ -95,11 +95,11 @@ Currently building and learning:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jevv-arch&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jevv-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevv-arch&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jevv-arch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
