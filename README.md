@@ -89,17 +89,6 @@ Currently building and learning:
  └── Full-stack applications 🚀
 ```
 
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jevv-arch/szeckshh/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 ## ⚡ Developer Terminal
 
 <details>
